@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program simulates two people playing darts to determine a winner. The program then uses the ratio of number of darts within the board to the total number of darts thrown to get an estimate of the value of pi.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 1
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+All parts of the lab are complete
 
 ## REFERENCES:
- < List any outside resources used >
+- Class notes
+- https://docs.python.org/3.7/library/turtle.html#turtle.setworldcoordinates
+- https://docs.python.org/3.7/library/random.html
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Nothing additional to add, lab went well. Was just busy this week so I had to use a grace day.
